@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: NoisePress
-Plugin URI: http://notizblog.org/projects/ubiquity-search-for-wordpress/
-Description: A WordPress-Search-Plugin for the Ubiquity.
+Plugin URI: http://notizblog.org/2010/11/05/noisepress-nie-wieder-irrelevante-inhalte/
+Description: An APML-Filter for WordPress-Feeds
 Version: 0.1
 Author: Matthias Pfefferle
 Author URI: http://notizblog.org/
