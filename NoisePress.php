@@ -102,7 +102,7 @@ class NoisePress {
   function parseRequest() {
     global $wp;
 
-    if( $wp->query_vars['noisepress'] == 'feedfilter' ) {
+    if( isset($wp->query_vars['noisepress']) && $wp->query_vars['noisepress'] == 'feedfilter' ) {
       NoisePress::printFeedFilterPage();
     }
   }
